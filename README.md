@@ -1,2 +1,6 @@
-# it-sd
-An angular 2 based web page for the VCE Computing - Software Development study design.
+# IT-SD
+
+This project uses [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
+
+## Development server
+For development purposes use `npm start` and then navigate to `http://localhost:2001/`
